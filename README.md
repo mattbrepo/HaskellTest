@@ -1,0 +1,2 @@
+# HaskellTest
+Various Haskell tests
