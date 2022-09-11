@@ -1,5 +1,5 @@
 # HaskellTest
-Various Haskell tests
+Various Haskell tests.
 
 **Language: Haskell**
 
